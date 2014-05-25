@@ -1,4 +1,21 @@
-[Undo Mistakes Using Git](http://bytesizedthoughts.com/git/2014/05/21/git-undo-by-example/)
+
+1. [GitHub Cheatsheet](/assets/github-git-cheat-sheet.pdf)
+by GitHub Training
+
+* Outlines steps for getting started with git, from installation to use.
+* Serves as a reference for common commands
+
+
+2. [Understanding the GitHub Workflow](https://guides.github.com/introduction/flow/)
+by GitHub Guides
+last update December 12, 2013
+
+* Create a branch of the project you want to work on. This is a good idea even if it's your own repository. The `master` branch should *ALWAYS* be deployable.
+* Add commits as you get to finite points in your code (i.e. a feature is complete and you know it works). Make sure you write explanatory commit messages along with your commits. Commits provide checkpoints to which you can rollback if need be.
+* Open a pull request; discuss your code!
+* Merge and deploy!
+
+3. [Undo Mistakes Using Git](http://bytesizedthoughts.com/git/2014/05/21/git-undo-by-example/)
 by bytesizedthoughts
 published May 21, 2014
 
